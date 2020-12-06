@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a Student of the 2nd grade on Software Engineering speciality.
+- 🔭 I’m currently a Student of the 2nd grade on Software Engineering major.
 - 🌱 I’m currently learning javaScript.
 - 👯 I’m looking to collaborate on a small web page project.
 - 💬 Ask me about HTML5/CSS3,basics of java ,C and C++.
