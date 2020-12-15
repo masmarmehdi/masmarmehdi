@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a Student of the 2nd grade on Software Engineering major.
 - 🌱 I’m currently learning javaScript.
 - 👯 I’m looking to collaborate on a small web page project.
-- 💬 Ask me about HTML5/CSS3,basics of java ,C and C++.
+- 💬 Ask me about HTML5/CSS3,basics of java ,javaScript,C and C++.
 - 📫 How to reach me: [instagram - @masmarmehdi](https://instagram.com/masmarmehdi) , [linkedIn - Mehdi Masmar](https://www.linkedin.com/in/mehdi-masmar-73304a1b9/).
 - 😄 Languages: English,Arabic,Russian,French.
 
