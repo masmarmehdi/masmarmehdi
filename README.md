@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Languages: English,Arabic,Russian,French.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masmarmehdi&layout=compact)](https://github.com/masmarmehdi/masmarmehdi)
-<img src="https://github-readme-stats.vercel.app/api?username=masmarmehdi&&show_icons=true&title_color=4454F4&icon_color=4454F4&text_color=ffffff&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=masmarmehdi&&show_icons=true&title_color=66ccff&icon_color=66ccff&text_color=ffffff&bg_color=000000">
